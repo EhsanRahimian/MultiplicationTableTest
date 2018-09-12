@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6a8b6657fbd22164dc2f6f91711c6f6b9abf716f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_a63397be31f6c977e75aff9333eb3d29227ae3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_9a20bd5f6e95635f1019caa6d947834ac124e5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e0de3b9497c0b2de36247dde59920c0d3d9777bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5b42914646f08ba6de7c1ccf764725f200aff563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_404a7c655c19573dd71d298e2657a5cdce72f045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_851afeebd00bc3e03d8d44d8471839a5a1f1e4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_bae635e8ff52e7264400ae8f6a763c95581cc6e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_86f34bb652d97a317dba1a912f7fa95c420f8269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3aabf3355d5ec85b236f415de1a0ec13bc295b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_b996ea0b7597adafbd8c4b7ae8ab615ce227247c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_43d31fa180fd845a1e602e152fcc902d34f50288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d01b097255984294a1b5c9e05b79a903ca664905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_7677d01f3bb26dbab981554e1145a3512de1f0c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_a1df45373728335c7473507430f99daa13d4f8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_0bb1afbe27f9a84a8b3b747b93ccf06121b3a1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_42a9fe5c0c69b9520ce85db36a67d3d1dd765c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_7b1be581707fbc5ee37e35a14507cdac6ad6c773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_0857d7ce37763244240fb4096747f3ece70d9320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_44ae7846e0480bb08e871e5aaeaf3b9067c343e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_35d9f1beb2a9514243c6abd7bea437a6be5b5662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_d5618295ae2963ed675544bf8ee8e41fc2805902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a93b55696ab5715f2a84c6e501e2bf7d851bb585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d86969ac230494a67a1fe314c7643e5380f42281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\EHSAN\Desktop\MultiplicationTableTest\MultiplicationTableTest\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b31f3eca8c9852ffddb6309f30d3f7479dc9cda3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b993f871947b1845c2e43445127d492cb672dab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a246cf456400e6dd34b92e5c6105221f232c39c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_772b96c352d7f601eb0c9d4eba26cc34e156430e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\EHSAN\AndroidStudioProjects\GeoQuiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_4ecbbfd6b18f3ef47197524f4664389e3bf28309.jar" />
+    </item>
+
+</items>
